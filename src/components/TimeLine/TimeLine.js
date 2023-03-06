@@ -46,7 +46,17 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      Hi there! My name is Dima and I'm a front-end developer with a focus on React. I have 2 years of experience in web development and I'm well-versed in various front-end tools and technologies such as React, HTML5, CSS3, Tailwind CSS and JavaScript.
+
+I also have experience in back-end development and have written code using Node.js. Currently, I'm taking a course in Solidity to enhance my skills in blockchain development. I've also completed a small course in Python to expand my knowledge of programming languages.
+
+As a tech enthusiast, I'm fascinated by blockchain technology and have a good understanding of it at the user level. In the future, I plan to write my own flashloan arbitrage bot using my knowledge of blockchain and smart contract development.
+
+In addition to my technical skills, I am a great team player who values collaboration and communication. I believe that effective teamwork is essential to building successful projects.
+
+When I'm not coding, you can find me exploring new technologies or outdoor activities like swiming and cooking.
+
+Feel free to reach out to me if you're looking for a front-end developer who is passionate about technology and dedicated to delivering high-quality code.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
